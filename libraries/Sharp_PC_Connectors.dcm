@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Sharp_Connector_40
+D Internal Sharp PC-1500/1600 Connector
+K sharp 1500 1600 connector cartridge
+$ENDCMP
+#
+$CMP Sharp_Connector_60
+D External Sharp PC-1500/1600 Connector
+K sharp 1500 1600 connector
+$ENDCMP
+#
 #End Doc Library

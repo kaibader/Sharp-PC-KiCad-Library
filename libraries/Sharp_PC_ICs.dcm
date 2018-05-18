@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LH5801
+D LH5801 Sharp PC-1500 CPU Microprocessor
+K lh5801 sharp 1500 cpu microprocessor
+$ENDCMP
+#
 #End Doc Library
