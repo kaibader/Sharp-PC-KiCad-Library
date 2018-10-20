@@ -1,4 +1,4 @@
-(module LH5801-QFP-76 (layer F.Cu) (tedit 5BCA49AC)
+(module LH5801-QFP-76 (layer F.Cu) (tedit 5BCB72D6)
   (attr smd)
   (fp_text reference REF** (at 10 -11 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -100,4 +100,9 @@
   (pad 74 smd rect (at -11.6 5.6 90) (size 0.5 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 75 smd rect (at -11.6 6.4 90) (size 0.5 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 76 smd rect (at -11.6 7.2 90) (size 0.5 2.5) (layers F.Cu F.Paste F.Mask))
+  (model ${SHARP_3D}/LH5801.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
