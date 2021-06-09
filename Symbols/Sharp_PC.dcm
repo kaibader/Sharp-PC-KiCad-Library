@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 40_Pin_Connector
+D Internal Sharp PC-1500/1600 Connector
+K sharp 1500 1600 connector cartridge
+$ENDCMP
+#
+$CMP 60_Pin_Connector
+D External Sharp PC-1500/1600 Connector
+K sharp 1500 1600 connector
+$ENDCMP
+#
+$CMP LH5367
+D Sharp CMOS 65536-Bit Mask Programmable Read Only Memory
+K Sharp LH5367 CMOS ROM
+$ENDCMP
+#
+$CMP LH5801
+D LH5801 Sharp PC-1500 CPU Microprocessor
+K lh5801 sharp 1500 cpu microprocessor
+$ENDCMP
+#
+#End Doc Library
